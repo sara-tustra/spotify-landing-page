@@ -10,7 +10,7 @@ export const Input =(props) => {
                         <input type="email" className="form-control p-4" placeholder="Enter your email Address" />
                     </div>
                     <div className="col-auto mx-0">
-                        <button type="button" className="btn btn-dark">{props.callToAction}</button>
+                        <button id="freeTrial" type="button" className="btn btn-dark">{props.callToAction}</button>
                     </div>
                 </div>
                     <div className="row justify-content-center py-2">
