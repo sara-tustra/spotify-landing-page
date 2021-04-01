@@ -1,3 +1,10 @@
 .card .fas {
     color:rgb(75, 91, 188);
 }
+
+.fas{
+    position: relative;
+    right: 20px;
+    padding: 20px;
+    margin-top: 90px;
+}
