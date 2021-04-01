@@ -1,8 +1,11 @@
 import React from 'react';
+import Cards from './components/Cards';
 
 function App() {
   return (
-    <h1>Hello World from React</h1>
+    <>
+      <Cards/>
+    </>
   );
 }
 
