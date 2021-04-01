@@ -1,0 +1,56 @@
+.bigContainer {
+  position: relative;
+}
+
+svg {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  path {
+      stroke: none;
+      fill:  rgb(74, 83, 183);;
+  }
+
+  .banner {
+    display: block;
+    margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  }
+
+.logo {
+  display: block;
+  margin-left: auto;
+margin-right: auto;
+width: 150px;
+object-fit:contain;
+
+filter: invert(100%) contrast(500%)
+
+}
+  .middleContainer {
+    position: relative;
+    width: 100%;
+    height: 350px;
+    background-color: rgb(74, 83, 183);
+
+  }
+
+
+  .headerContainer {
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(74, 83, 183);
+    padding: 20px;
+  }
+
+  .btn {
+    padding: 12px;
+    
+  }

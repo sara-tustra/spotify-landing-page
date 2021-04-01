@@ -1,8 +1,19 @@
 import React from 'react';
 
+import { Wave } from './components/wave';
+import { MiddleContainer } from './components/body'
+import { Header} from './components/header';
+
 function App() {
   return (
-    <h1>Hello World from React</h1>
+    <>
+    <Header />
+    <MiddleContainer 
+    title="Sell online with Shopify"
+    subtitle="Thusted by over 800,000 businesses worldwide"
+    />
+    <Wave />
+    </>
   );
 }
 
