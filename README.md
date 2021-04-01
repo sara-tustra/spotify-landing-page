@@ -1,31 +1,70 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Spotify Landing Page
+# Getting Started with Create React App
 
-As a junior developer you are going to be asked to do lots of HTML/CSS landing pages for marketing purposes.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🌱  How to start this project
+## Available Scripts
 
-This project comes with the necessary files to start working, but you have two options to start:
+In the project directory, you can run:
 
-a) Open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-spotify-landing-page.git
+### `npm start`
 
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-spotify-landing-page.git
-```
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## 📝 Instructions
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Replicate [this exact landing page](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true) using bootstrap framework, please use the assets found on [the following link](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/assets.zip?raw=true).
+### `npm test`
 
-![Spotify Landing Page](https://github.com/breatheco-de/exercise-spotify-landing-page/blob/master/preview.png?raw=true)
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Goals
+### `npm run build`
 
-1. Demonstrate the perks of using a framework like bootstrap.
-2. Work in a real life website used by one of the most popular companies in the world.
-3. Replicate a real life working environment, doing a real-life typical task.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-## Technologies
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-HTML5, CSS, Bootstrap.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
